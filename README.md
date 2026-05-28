@@ -16,7 +16,6 @@ The program repeatedly applies random modifications to regions of an image, caus
   - Brightness decrease
   - Random noise mutation
 - NumPy-based image manipulation
-- Side-by-side comparison of original and evolved image
 
 ---
 
